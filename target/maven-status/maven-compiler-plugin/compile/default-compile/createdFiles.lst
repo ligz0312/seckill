@@ -1,0 +1,4 @@
+com\atlige\seckill\dao\SeckillDao.class
+com\atlige\seckill\entity\Seckill.class
+com\atlige\seckill\entity\SuccessKilled.class
+com\atlige\seckill\dao\SuccessKilledDao.class
